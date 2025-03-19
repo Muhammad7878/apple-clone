@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Vite
+/dist
+/.vite
+
+# Environment Files
+.env
+.env.*.local
+
+# IDE and Editor Files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Package-lock and yarn lock files (optional, can keep these if you prefer)
+# package-lock.json
+# yarn.lock
